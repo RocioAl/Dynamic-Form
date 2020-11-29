@@ -1,0 +1,7 @@
+[11-Jun-2020 02:36:05 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pikanvin/public_html/intranet/main_app/cliente/index.php on line 14265
+[11-Jun-2020 02:38:09 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pikanvin/public_html/intranet/main_app/cliente/index.php on line 14265
+[19-Jun-2020 21:57:17 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pikanvin/public_html/intranet/main_app/cliente/index.php:5) in /home/pikanvin/public_html/intranet/main_app/cliente/index.php on line 6
+[19-Jun-2020 22:00:17 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pikanvin/public_html/intranet/main_app/cliente/index.php:5) in /home/pikanvin/public_html/intranet/main_app/cliente/index.php on line 6
+[20-Jun-2020 17:12:52 Etc/GMT] PHP Fatal error:  Call to a member function __GET() on a non-object in /home/pikanvin/public_html/intranet/main_app/cliente/index.php on line 6329
+[02-Jul-2020 18:21:30 Etc/GMT] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/pikanvin/public_html/intranet/main_app/cliente/connect_db.php on line 52
+[02-Jul-2020 18:23:34 Etc/GMT] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/pikanvin/public_html/intranet/main_app/cliente/connect_db.php on line 57
